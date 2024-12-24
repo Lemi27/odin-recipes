@@ -9,3 +9,10 @@ By completing this project, I will have demonstrated:
 - Embedding images into web pages.
 - Creating navigation links between multiple HTML files.
 - Developing a foundational understanding of building static websites.
+
+## References
+The following recipes were used in this project:
+
+- [Brooklyn-Style Brick Oven Pizza](https://www.allrecipes.com/recipe/70801/brick-oven-pizza-brooklyn-style/)
+- [Broiled Filet Mignon](https://www.allrecipes.com/recipe/278229/broiled-filet-mignon/)
+- [World's Best Lasagna](https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/)
