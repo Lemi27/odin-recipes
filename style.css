@@ -1,12 +1,12 @@
 body {
     background-color: #FAFAFA;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 25px;
+    font-size: 18px;
     color: #4A4A4A;
 }
 
 h1 {
-    font-size: 75px;
+    font-size: 60px;
     text-align: center;
     color: #333333;
 }
@@ -21,4 +21,21 @@ h1, h2, .page-links {
 
 h2, .page-links {
     font-size: 50px;
+}
+
+.page-links a {
+    display: block;
+}
+
+.page-links li {
+    width: 65%;
+    color: #4A4A4A;
+    font-weight: bold;
+    height: auto;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
+    display: block;
+    border: 5px solid black;
 }
